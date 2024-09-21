@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'E-Ticaret Uygulaması',
+      title: 'Amazon Clone',
       debugShowCheckedModeBanner: false,
       theme: amazonTheme,
       home: const SplashScreen(),

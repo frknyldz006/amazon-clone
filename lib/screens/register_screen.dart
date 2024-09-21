@@ -7,9 +7,9 @@ class RegisterScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    TextEditingController _usernameController = TextEditingController();
-    TextEditingController _emailController = TextEditingController();
-    TextEditingController _passwordController = TextEditingController();
+    TextEditingController usernameController = TextEditingController();
+    TextEditingController emailController = TextEditingController();
+    TextEditingController passwordController = TextEditingController();
 
     return Scaffold(
       backgroundColor: amazonTheme.scaffoldBackgroundColor,
@@ -31,7 +31,7 @@ class RegisterScreen extends StatelessWidget {
             ),
             const SizedBox(height: 40),
             TextField(
-              controller: _usernameController,
+              controller: usernameController,
               decoration: InputDecoration(
                 label: const Text("Kullanıcı Adı"),
                 prefixIcon: const Icon(Icons.person),
@@ -41,7 +41,7 @@ class RegisterScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             TextField(
-              controller: _emailController,
+              controller: emailController,
               decoration: InputDecoration(
                 label: const Text("E-mail"),
                 prefixIcon: const Icon(Icons.email),
@@ -51,7 +51,7 @@ class RegisterScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             TextField(
-              controller: _passwordController,
+              controller: passwordController,
               decoration: InputDecoration(
                 label: const Text("Şifre"),
                 prefixIcon: const Icon(Icons.key),

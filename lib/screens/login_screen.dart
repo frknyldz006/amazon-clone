@@ -9,8 +9,8 @@ class LoginScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    TextEditingController _passwordController = TextEditingController();
-    TextEditingController _emailController = TextEditingController();
+    TextEditingController passwordController = TextEditingController();
+    TextEditingController emailController = TextEditingController();
     return Scaffold(
       backgroundColor: amazonTheme.scaffoldBackgroundColor,
       appBar: AppBar(
@@ -32,13 +32,13 @@ class LoginScreen extends StatelessWidget {
             const SizedBox(height: 40),
             const SizedBox(height: 20),
             TextField(
-                controller: _emailController,
-                decoration: InputDecoration(
+                controller: emailController,
+                decoration: const InputDecoration(
                     label: Text("E-mail"), prefixIcon: Icon(Icons.email))),
             const SizedBox(height: 20),
             TextField(
-              controller: _passwordController,
-              decoration: InputDecoration(
+              controller: passwordController,
+              decoration: const InputDecoration(
                   label: Text("Şifre"), prefixIcon: Icon(Icons.key)),
               obscureText: true,
             ),

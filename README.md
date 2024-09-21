@@ -1,16 +1,10 @@
-# myapp
+# Amazon Clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/1.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/2.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/3.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/4.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/5.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/6.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/7.jpg))
+![]([http://url/to/img.png](https://raw.githubusercontent.com/frknyldz006/amazon-clone/refs/heads/main/assets/ss/8.jpg))
